@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M_EZQuotesFall2018/animals.swift"
+            timestampString = "562044631.8965811"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M_EZQuotesFall2018/AppDelegate.swift"
+            timestampString = "562045835.7802401"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M_EZQuotesFall2018.AppDelegate.__allocating_init() -&gt; M_EZQuotesFall2018.AppDelegate"
+                  moduleName = "M_EZQuotesFall2018"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/RyanEvans/Downloads/M_EZQuotesFall2018-3/M_EZQuotesFall2018/AppDelegate.swift"
+                  timestampString = "561505063.801488"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M_EZQuotesFall2018.AppDelegate.init() -&gt; M_EZQuotesFall2018.AppDelegate"
+                  moduleName = "M_EZQuotesFall2018"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/RyanEvans/Downloads/M_EZQuotesFall2018-3/M_EZQuotesFall2018/AppDelegate.swift"
+                  timestampString = "561505063.804739"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M_EZQuotesFall2018.AppDelegate.__deallocating_deinit"
+                  moduleName = "M_EZQuotesFall2018"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/RyanEvans/Downloads/M_EZQuotesFall2018-3/M_EZQuotesFall2018/AppDelegate.swift"
+                  timestampString = "561505063.808169"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "M_EZQuotesFall2018"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/RyanEvans/Downloads/M_EZQuotesFall2018-3/M_EZQuotesFall2018/AppDelegate.swift"
+                  timestampString = "561505063.812759"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
